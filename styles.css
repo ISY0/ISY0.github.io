@@ -1,0 +1,95 @@
+h1 {
+  font-size: 5em;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 1.0em;
+  margin-bottom: 0.5em;
+  color: white;
+  text-decoration: solid;
+  text-decoration: underline;
+  
+}
+
+
+  
+
+body {
+  background-image: url("IMG_0133.jpg");
+  image-resolution: 1980px;
+  background-size: cover;
+ 
+
+}
+button {
+  margin-top: 300px;
+}
+.square {
+  background: rgb(0, 0, 0);
+  width: 1000px;
+  height: 250px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0;
+  border-radius: 25px;
+  opacity: 70%;
+  z-index: -1;
+
+  
+}
+p {
+  font-size: 2em;
+  color: white;
+  text-align: center;
+  z-index:1;
+  position: relative;
+  margin-left: 50;
+  margin-right: 50;
+  
+ 
+
+}
+.text {
+  color: white;
+ padding-top: 10;
+
+}
+.square1 {
+  background:black;
+  height: 500px;
+  width:750px;
+  opacity: 70%;
+  border-radius: 25px;
+  margin-left: 100px;
+  margin-top: 100px;
+
+}
+.square2 {
+  background:black;
+  height: 500px;
+  width:750px;
+  opacity: 70%;
+  border-radius: 25px;
+  margin-left: 1000px;
+  margin-top: -500;
+
+}
+.textinsquare1 {
+  font-size: 2em;
+  color: white;
+  text-align: center;
+  z-index:1;
+  text-decoration: underline;
+  padding-top: 20;
+
+
+}
+.textinsquare2 {
+  font-size: 2em;
+  color: white;
+  text-align: center;
+  z-index:1;
+  text-decoration: underline;
+  padding-top: 20;
+  
+
+}
